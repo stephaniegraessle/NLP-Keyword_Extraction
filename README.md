@@ -1,9 +1,9 @@
 # NLP-Keyword_Extraction
 
-NLP practice repository to create a tool for extracting keywords from text.
+Tool for extracting keywords from a passage of text. WIP.
 
 ## Installation
-Note: I found it easiest to run from a Linux terminal, such as WSL.
+Note: I found it easiest to run from a Linux terminal, such as [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install).
 
 1. Download Python 3.
 2. Install NLTK: `$ pip install nltk`
